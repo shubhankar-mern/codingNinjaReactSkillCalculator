@@ -104,3 +104,6 @@ function App() {
 }
 
 export default App;
+// "homepage": "https://shubhankar-mern.github.io/codingNinjaMernCalculator",
+  //"predeploy": "npm run build",
+   // "deploy": "gh-pages -d build",
