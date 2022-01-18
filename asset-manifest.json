@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codingNinjaReactSkillCalculator/static/css/main.fbce6e32.css",
+    "main.js": "/codingNinjaReactSkillCalculator/static/js/main.4b1a7577.js",
+    "index.html": "/codingNinjaReactSkillCalculator/index.html",
+    "main.fbce6e32.css.map": "/codingNinjaReactSkillCalculator/static/css/main.fbce6e32.css.map",
+    "main.4b1a7577.js.map": "/codingNinjaReactSkillCalculator/static/js/main.4b1a7577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbce6e32.css",
+    "static/js/main.4b1a7577.js"
+  ]
+}
